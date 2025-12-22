@@ -3,10 +3,10 @@ project 1 hand drawing , project 2 hand calculator
 
 **What’s Inside the Repository**
 
-**Project 1** —** Hand Drawing:** A real-time drawing application using webcam input where hand landmarks detected by MediaPipe drive on-screen drawing. Users can move a finger in front of the camera to draw lines, mimicking a virtual paint tool using gesture tracking via OpenCV + MediaPipe. 
+**Project 1** — ** Hand Drawing:**  A real-time drawing application using webcam input where hand landmarks detected by MediaPipe drive on-screen drawing. Users can move a finger in front of the camera to draw lines, mimicking a virtual paint tool using gesture tracking via OpenCV + MediaPipe. 
 GitHub
 
-**Project 2** —** Hand Calculator:** An interactive calculator driven by hand gestures. This project interprets specific finger positions or gestures to perform basic arithmetic operations (e.g., counting fingers as input). The application processes the webcam feed in real time and uses MediaPipe to detect and classify hand poses for input. 
+**Project 2** —  ** Hand Calculator:**  An interactive calculator driven by hand gestures. This project interprets specific finger positions or gestures to perform basic arithmetic operations (e.g., counting fingers as input). The application processes the webcam feed in real time and uses MediaPipe to detect and classify hand poses for input. 
 GitHub
 
 **Technology Stack**
